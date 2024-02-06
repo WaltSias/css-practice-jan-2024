@@ -2,7 +2,7 @@
 
 # html-practice-Jan-2024
 
-This is a website about...
+This is a website about 
 
 It will contain a variety of HTML tags and CSS rules.
 
@@ -19,7 +19,7 @@ It will contain a variety of HTML tags and CSS rules.
  
 ## Contact
 
-Author: 
+Author: Walter Sias walt.sias@gmail.com
 
 ## Acknowledgements
 

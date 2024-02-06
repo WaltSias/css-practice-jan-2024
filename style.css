@@ -1,7 +1,47 @@
 body {
-  font-family: Arial;
+  font-family: helvetica;
+}
+
+body {
+  background-color: rgb(105, 182, 91);
+}
+
+ul {
+  list-style-type: square;
 }
 
 p {
-  color: slategray;
+  color: blue;
+  border-style: double;
+  border-widths: medium;
+}
+
+#Foreign ul {
+  font-style: italic;
+  font-size: 20px;
+
+}
+
+h1 {
+  color: yellow;
+}
+
+#domestic strong {
+  color: blanchedalmond;
+
+}
+
+#Foreign em {
+  color: #FFE1EA
+}
+
+h2 {
+  border: dotted;
+
+}
+
+#domestic h2 {
+  border-style: ridge;
+  border-color: blue;
+
 }
