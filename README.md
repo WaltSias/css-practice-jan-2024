@@ -13,9 +13,9 @@ It will contain a variety of HTML tags and CSS rules.
 
 ## Roadmap
 
-- [ ] Styles body
-- [ ] Styles for for h1, h2, p
-- [ ] Sytles for lists
+- [x] Styles body
+- [x] Styles for for h1, h2, p
+- [x] Sytles for lists
  
 ## Contact
 
