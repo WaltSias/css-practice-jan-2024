@@ -2,7 +2,7 @@
 
 # html-practice-Jan-2024
 
-This is a website about 
+This is a website about Cars & Cats
 
 It will contain a variety of HTML tags and CSS rules.
 
