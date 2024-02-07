@@ -18,6 +18,7 @@ It will contain a variety of HTML tags and CSS rules.
 - [x] Styles for lists
 - [x] add Cool Cats Html 
 - [x] add cool cats css file
+- [x] added p tag styles and
  
 ## Contact
 
