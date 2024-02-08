@@ -34,8 +34,22 @@ aside {
 aside>ul>li {
 
     padding: 5%;
-    border: 1px black solid;
+    border-bottom: 1px black solid;
     width: 50px;
+    list-style-type: none;
+    margin: 1%;
 
+}
 
+aside ul {
+    padding: 0%;
+}
+
+main,
+aside h1 {
+    text-align: center;
+}
+
+a {
+    clear: both;
 }

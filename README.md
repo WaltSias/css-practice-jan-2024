@@ -24,6 +24,8 @@ It will contain a variety of HTML tags and CSS rules.
 - [x] added layout html and css
 - [x] added background to Headers
 - [x] added img
+- [x] added menu
+- [x] added links back to pages
  
 ## Contact
 
