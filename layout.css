@@ -1,0 +1,20 @@
+header {
+    background-color: aqua;
+
+}
+
+
+
+main {
+    background-color: lavender;
+    width: 53%;
+    float: left;
+}
+
+
+
+aside {
+    background-color: pink;
+    width: 45%;
+    float: right;
+}
