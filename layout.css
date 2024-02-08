@@ -19,10 +19,23 @@ img {
     padding: 20;
 }
 
+footer {
+    clear: both;
+}
 
 
 aside {
     background-color: pink;
     width: 44%;
     float: right;
+
+}
+
+aside>ul>li {
+
+    padding: 5%;
+    border: 1px black solid;
+    width: 50px;
+
+
 }
