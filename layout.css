@@ -7,14 +7,19 @@ header {
 
 main {
     background-color: lavender;
-    width: 53%;
+    width: 52%;
     float: left;
+}
+
+img {
+    width: 75%;
+    float: ;
 }
 
 
 
 aside {
     background-color: pink;
-    width: 45%;
-    float: right;
+    width: 44%;
+    float: none;
 }

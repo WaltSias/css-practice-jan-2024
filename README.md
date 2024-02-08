@@ -22,6 +22,8 @@ It will contain a variety of HTML tags and CSS rules.
 - [x] added img folder
 - [x] linked img and changed size
 - [x] added layout html and css
+- [x] added background to Headers
+- [x] added img
  
 ## Contact
 
