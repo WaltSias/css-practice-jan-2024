@@ -12,8 +12,11 @@ main {
 }
 
 img {
-    width: 75%;
-    float: ;
+    width: 60%;
+    float: none;
+    border: 50;
+    margin: 20%;
+    padding: 20;
 }
 
 
@@ -21,5 +24,5 @@ img {
 aside {
     background-color: pink;
     width: 44%;
-    float: none;
+    float: right;
 }
